@@ -1,0 +1,4 @@
+cd Desptop
+cd antivirus
+cd qt
+pyuic5 -x main_try_2.ui -o main_try_2.py
